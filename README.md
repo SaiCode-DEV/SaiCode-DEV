@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=saibot-yt&include_all_commits=true&show_icons=true&icon_color=66ccff&text_color=1266db&bg_color=212121" />
 
-<!--
-**SaiBot-YT/SaiBot-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :wave: Hi, I'm SaiCode
 
-Here are some ideas to get you started:
+- :gear: Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Git" width = "30px" height = "30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="Git" width = "30px" height = "30px"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width = "30px" height = "30px"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width = "30px" height = "30px"> <img alt="IntelliJ IDEA" src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width = "30px" height = "30px"/> 
+
+- :hammer: My Projects
+  - [Computercraft Scripts](https://github.com/SaiBot-YT/Minacraft-Computers)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibot-yt&text_color=1266db&bg_color=212121" />
+
