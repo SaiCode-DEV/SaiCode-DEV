@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saibot-yt&include_all_commits=true&show_icons=true&icon_color=66ccff&text_color=1266db&bg_color=212121" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaiCode-DEV&include_all_commits=true&show_icons=true&icon_color=66ccff&text_color=1266db&bg_color=212121" />
 
 ## :wave: Hi, I'm SaiCode
 
@@ -7,7 +7,7 @@
   - <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Git" width = "30px" height = "30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="Git" width = "30px" height = "30px"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width = "30px" height = "30px"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width = "30px" height = "30px"> <img alt="IntelliJ IDEA" src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width = "30px" height = "30px"/> 
 
 - :hammer: My Projects
-  - [Computercraft Scripts](https://github.com/SaiBot-YT/Minacraft-Computers)
+  - [Computercraft Scripts](https://github.com/SaiCode-DEV/Minacraft-Computers)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibot-yt&text_color=1266db&bg_color=212121" />
 
